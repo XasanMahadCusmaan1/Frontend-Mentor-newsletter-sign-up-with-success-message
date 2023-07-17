@@ -115,7 +115,6 @@ button:hover{
         display: flex;
         flex-direction: column-reverse;
         width: 100%;
-        padding: none;
     }
     .content-side{
         width: 100%;
@@ -132,6 +131,6 @@ button:hover{
 }
 @media only screen  and (max-width: 400px){
     h1{
-        font-size: 35px;
+        font-size: 25px;
     }
 }
